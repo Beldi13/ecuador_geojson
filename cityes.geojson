@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8891, -2.1709]  
+      },
+      "properties": {
+        "name": "Guayaquil",
+        "description": "Ciudad principal del puerto de Ecuador"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.4678, -0.1807] 
+      },
+      "properties": {
+        "name": "Quito",
+        "description": "Capital de Ecuador"
+      }
+    }
+  ]
+}
