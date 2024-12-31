@@ -5,22 +5,119 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.8891, -2.1709]  
-      },
-      "properties": {
-        "name": "Guayaquil",
-        "description": "Ciudad principal del puerto de Ecuador"
+        "coordinates": [-79.84487271330036, -2.162454775789531]  
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.4678, -0.1807] 
-      },
-      "properties": {
-        "name": "Quito",
-        "description": "Capital de Ecuador"
+        "coordinates": [-79.88460726079667, -2.1739607310365296]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.48747412475623, -0.1995344826486197]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.00261211637924, -2.8953575323700775]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.60398518362949, -1.2068890181671723]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.18586465315829, -0.2581691033699468]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.20244352777321, -3.988058421457084]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.85931065628701, -2.2257804710733886]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.46045343042309, -1.0184836364671417]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.53793175037339, -1.8054296841459194]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.66258280260925, -1.6637363749910128]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.12691933687717, 0.35479522927645357]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.72611367759924, -0.946397776215594]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.94906581381115, -3.2471633538886353]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.45167304367241, -1.0499231226628496]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.99984285334467, -1.491209323074899]  
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.85808738804997, -0.5602340104026254]  
       }
     }
   ]
